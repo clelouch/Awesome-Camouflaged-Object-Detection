@@ -34,24 +34,22 @@ In this repository, we mainly focus on deep learning based Camouflaged Object De
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **AAAI** | Structure-Consistent Weakly Supervised Salient Object Detection with Local Saliency Coherence | [Paper](https://arxiv.org/pdf/2012.04404.pdf)/[Code](https://github.com/siyueyu/SCWSSOD/tree/f8650567cbbc8df5bf6edc32a633c47a885574cd)
-02 | **AAAI** | Pyramidal Feature Shrinking for Salient Object Detection | [Paper](https://www.aaai.org/AAAI21Papers/AAAI-1322.MaM.pdf)/[Code](https://github.com/iCVTEAM/PFSNet) 
-03 | **AAAI** | Locate Globally, Segment Locally: A Progressive Architecture with Knowledge Review Network for Salient Object Detection | [Paper](https://www.aaai.org/AAAI21Papers/AAAI-4841.XuB.pdf)/[Code](https://github.com/bradleybin/Locate-Globally-Segment-locally-A-Progressive-Architecture-With-Knowledge-Review-Network-for-SOD)  
-04 | **AAAI** | Multi-Scale Graph Fusion for Co-Saliency Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16951)/Code
-05 | **AAAI** | Generating Diversified Comments via Reader-Aware Topic Modeling and Saliency Detection | [Paper](https://arxiv.org/pdf/2102.06856.pdf)/Code
-06 | **ICIP** | Multiscale IoU: A Metric for Evaluation of Salient Object Detection with Fine Structures | [Paper](https://arxiv.org/pdf/2105.14572.pdf)/Code
-07 | **TCSVT** | Weakly-Supervised Saliency Detection via Salient Object Subitizing | [Paper](https://arxiv.org/pdf/2101.00932.pdf)/Code 
-08 | **TIP** | SAMNet: Stereoscopically Attentive Multi-scale Network for Lightweight Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9381668)/[Code](https://github.com/yun-liu/FastSaliency) 
-09 | **IJCAI** | C2FNet: Context-aware Cross-level Fusion Network for Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2105.12555.pdf)/[Code](https://github.com/thograce/C2FNet)
-10 | **CVPR** | Railroad is not a Train: Saliency as Pseudo-pixel Supervision for Weakly Supervised Semantic Segmentation | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Railroad_Is_Not_a_Train_Saliency_As_Pseudo-Pixel_Supervision_for_CVPR_2021_paper.pdf)/[Code](https://github.com/halbielee/EPS)
-11 | **CVPR** | Prototype-Guided Saliency Feature Learning for Person Search | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Prototype-Guided_Saliency_Feature_Learning_for_Person_Search_CVPR_2021_paper.pdf)/Code
+01 | **CVPR** | Mutual Graph Learning for Camouflaged Object Detection | [Paper](https://arxiv.org/abs/2104.02613)/[Code](https://github.com/fanyang587/MGL)
+02 | **MICCAI** | PraNet: Parallel Reverse Attention Network for Polyp Segmentation | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)/[Code](https://github.com/DengPingFan/PraNet) 
+03 | **CVPR** | Simultaneously Localize, Segment and Rank the Camouflaged Objects | [Paper](https://arxiv.org/abs/2103.04011v2)/[Code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)  
+04 | **CVPR** | Uncertainty-aware Joint Salient Object and Camouflaged Object Detection | [Paper](https://arxiv.org/abs/2104.02628)/[Code](https://github.com/JingZhang617/Joint_COD_SOD)
+05 | **ICCV** | Uncertainty-Guided Transformer Reasoning for Camouflaged Object Detection | [Paper](http://ieeexplore.ieee.org/document/9710683/)/[Code](https://github.com/fanyang587/UGTR)
+07 | **ACCESS** | MirrorNet: Bio-Inspired Camouflaged Object Segmentation | [Paper](https://ieeexplore.ieee.org/document/9371667/)/Code 
+08 | **AAAI** | Inferring Camouflaged Objects by Texture-Aware Interactive Guidance Network | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16475)/Code
+10 | **TCSVT** | Deep Texture-Aware Features for Camouflaged Object Detection | [Paper](https://arxiv.org/abs/2102.02996v1)/Code
+11 | **TPAMI** | Concealed Object Detection | [Paper](https://ieeexplore.ieee.org/document/9444794)/[Code](https://github.com/GewelsJI/SINet-V2)
+12 | **CVPR** | Camouflaged Object Segmentation With Distraction Mining | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Mei_Camouflaged_Object_Segmentation_With_Distraction_Mining_CVPR_2021_paper.pdf)/[Code](https://github.com/Mhaiyang/CVPR2021_PFNet)
+13 | **IMVIS** | Boundary guidance network for camouflage object detection | [Paper](https://doi.org/10.1016/j.imavis.2021.104283)/Code
+14 | **IJCAI** | Context-aware Cross-level Fusion Network for Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2105.12555.pdf)/[Code](https://github.com/thograce/C2FNet)
+15 | **Arxiv** | Accurate Camouflaged Object Detection via Mixture Convolution and Interactive Fusion | [Paper](https://arxiv.org/abs/2101.05687)/Code
+15 | **Arxiv** | Confidence-Aware Learning for Camouflaged Object Detection | [Paper](https://arxiv.org/abs/2106.11641v1)/Code
+15 | **Arxiv** | Depth-Guided Camouflaged Object Detection | [Paper](https://arxiv.org/abs/2106.13217v3)/Code
 
-
-12 | **TPAMI** | Concealed Object Detection | [Paper](https://ieeexplore.ieee.org/document/9444794)/[Code](https://github.com/GewelsJI/SINet-V2)
-13 | **CVPR** | Camouflaged Object Segmentation With Distraction Mining | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Mei_Camouflaged_Object_Segmentation_With_Distraction_Mining_CVPR_2021_paper.pdf)/[Code](https://github.com/Mhaiyang/CVPR2021_PFNet)
-14 | **IMVIS** | Boundary guidance network for camouflage object detection | [Paper](https://doi.org/10.1016/j.imavis.2021.104283)/Code
-15 | **IJCAI** | Black-Box Explanation of Object Detectors via Saliency Maps | [Paper](https://arxiv.org/pdf/2105.12555.pdf)/[Code](https://github.com/thograce/C2FNet)
-16 | **Arxiv** | Accurate Camouflaged Object Detection via Mixture Convolution and Interactive Fusion | [Paper](https://arxiv.org/abs/2101.05687)/Code
 
 
 
