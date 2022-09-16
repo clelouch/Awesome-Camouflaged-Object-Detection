@@ -3,6 +3,8 @@ A list of camouflaged object detection papers, codes and datasets.
 
 In this repository, we mainly focus on deep learning based Camouflaged Object Detection (COD) methods. We hope this repo. can help you to better understand COD in the deep learning era.        
 
+# Camouflaged Object Detection
+
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -70,7 +72,7 @@ In this repository, we mainly focus on deep learning based Camouflaged Object De
 * 2D SOD datasets ([Baidu](https://pan.baidu.com/s/1sJ8h8srJg0gmVE-kJLJ4og)) [code:q5e4] or ([Google](https://drive.google.com/file/d/1VS8qVUjC__4BZhB-13S3wHDWAs_-YFDI/view?usp=sharing))
 * Video COD datasets [download](https://xueliancheng.github.io/SLT-Net-project/).
 
-### AI Conference Deadlines
+## AI Conference Deadlines
 [Realted AI Conference deadline](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)     
 [Realted AI Conference Accepted Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 
