@@ -6,30 +6,18 @@ In this repository, we mainly focus on deep learning based Camouflaged Object De
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **AAAI** | Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-604.YanP.pdf)/[Code](https://github.com/Kinpzz/UDASOD-UPL)  
-02 | **AAAI** | A Causal Debiasing Framework for Unsupervised Salient Object Detection | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-108.LinX.pdf)/Code  
-03 | **AAAI** | Energy-Based Generative Cooperative Saliency Prediction | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1516.ZhangJ.pdf)/[Code](https://github.com/JingZhang617/SalCoopNets)  
-04 | **AAAI** | Weakly-Supervised Salient Object Detection Using Point Supervison | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-461.GaoS.pdf)/[Code](https://github.com/shuyonggao/PSOD)    
-05 | **AAAI** | TRACER: Extreme Attention Guided Salient Object Tracing Network | [Paper](https://arxiv.org/pdf/2112.07380.pdf)/[Code](https://github.com/Karel911/TRACER)  
-06 | **AAAI** | I can find you! Boundary-guided Separated Attention Network for Camouflaged Object Detection | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-6565.ZhuH.pdf)/[Code](https://github.com/WolfberryCoke/BSA-Net)  
-07 | **WACV** | Recursive Contour-Saliency Blending Network for Accurate Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Ke_Recursive_Contour-Saliency_Blending_Network_for_Accurate_Salient_Object_Detection_WACV_2022_paper.pdf)/[Code](https://github.com/BarCodeReader/RCSB-PyTorch)  
-08 | **IEEE TPAMI** | PoolNet+: Exploring the Potential of Pooling for Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI-PoolNet.pdf)/[Code](http://mmcheng.net/poolnet/)  
-09 | **IEEE TPAMI** | A Highly Efficient Model to Study the Semantics of Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI-Sal100K.pdf)/[Code](https://mmcheng.net/sod100k/)  
-10 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation | [Paper](https://arxiv.org/abs/2201.08049)/[Code](https://github.com/MathLee/CorrNet)  
-11 | **TOMM** | Disentangle Saliency Detection into Cascaded Detail Modeling and Body Filling | [Paper](https://arxiv.org/pdf/2202.04112.pdf)/Code   
-12 | **TMM** | Noise-Sensitive Adversarial Learning for Weakly Supervised Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9716868/authors#authors)/[Code](https://github.com/wuweia123/IEEE-TMM-NSALWSS) 
-13 | **ArXiv** | Joint Learning of Salient Object Detection, Depth Estimation and Contour Extraction | [Paper](https://arxiv.org/pdf/2203.04895.pdf)/Code 
-14 | **ArXiv** | A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2203.04708.pdf)/[Code](https://github.com/suyukun666/UFO) 
-
-33 | **CVPRW** | Unsupervised Salient Object Detection with Spectral Cluster Voting | [Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Shin_Unsupervised_Salient_Object_Detection_With_Spectral_Cluster_Voting_CVPRW_2022_paper.pdf)/[Code](https://github.com/NoelShin/selfmask) 
-:triangular_flag_on_post: 34 | **ECCV** | KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation | [Paper](https://arxiv.org/pdf/2208.02178.pdf)/[Code](https://github.com/zhangjinCV/KD-SCFNet) 
-:triangular_flag_on_post: 35 | **ECCV** | Salient Object Detection for Point Clouds | [Paper](https://arxiv.org/pdf/2207.11889.pdf)/[Code](https://git.openi.org.cn/OpenPointCloud/PCSOD) 
-:triangular_flag_on_post: 36 | **PR** | BiconNet: An Edge-preserved Connectivity-based Approach for Salient Object Detection | [Paper](https://arxiv.org/pdf/2103.00334.pdf)/[Code](https://github.com/Zyun-Y/BiconNets) 
-:triangular_flag_on_post: 37 | **IEEE TCyb** | DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9345433)/[Code](https://github.com/yun-liu/DNA) 
-:triangular_flag_on_post: 38 | **ACMM** | Synthetic Data Supervised Salient Object Detection | [Paper](http://www.digitalimaginggroup.ca/members/Shuo/ACM_Multimedia_2022_final_version.pdf)/[Code](https://github.com/wuzhenyubuaa/SODGAN) 
-:triangular_flag_on_post: 39 | **IEEE TCSVT** | A Weakly Supervised Learning Framework for Salient Object Detection via Hybrid Labels | [Paper](https://arxiv.org/pdf/2209.02957.pdf)/[Code](https://rmcong.github.io/proj_Hybrid-Label-SOD.html) 
-
-
+01 | **CVPR** | Zoom in and Out: A Mixed-Scale Triplet Network for Camouflaged Object Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Pang_Zoom_in_and_Out_A_Mixed-Scale_Triplet_Network_for_Camouflaged_CVPR_2022_paper.pdf)/[Code](https://github.com/lartpang/ZoomNet)
+02 | **AAAI** | I can find you! Boundary-guided Separated Attention Network for Camouflaged Object Detection | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-6565.ZhuH.pdf)/[Code](https://github.com/WolfberryCoke/BSA-Net)  
+03 | **CVPR** | Segment, Magnify and Reiterate Detecting Camouflaged Objects the Hard Way | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Segment_Magnify_and_Reiterate_Detecting_Camouflaged_Objects_the_Hard_Way_CVPR_2022_paper.pdf)/[Code](https://github.com/dlut-dimt/SegMaR)  
+04 | **ACM MMA** | Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels | [Paper](https://arxiv.org/abs/2110.15606v1)/Code
+05 | **AAAI** | I Can Find You! Boundary-Guided Separated Attention Network for Camouflaged Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20273)/[Code](https://github.com/WolfberryCoke/BSA-Net)  
+06 | **Arxiv** | High-resolution Iterative Feedback Network for Camouflaged Object Detection | [Paper](https://arxiv.org/abs/2203.11624)/[Code](https://github.com/HUuxiaobin/HitNet)  
+07 | **KBS** | Energy-Based Generative Cooperative Saliency Prediction | [Paper](https://doi.org/10.1016/j.knosys.2022.108901)/[Code](https://github.com/clelouch/BgNet)
+08 | **PR** | Fast Camouflaged Object Detection via Edge-based Reversible Re-calibration Network | [Paper](https://arxiv.org/abs/2111.03216)/[Code](https://github.com/GewelsJI/ERRNet) 
+09 | **CVPR** | Detecting Camouflaged Object in Frequency Domain | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_Detecting_Camouflaged_Object_in_Frequency_Domain_CVPR_2022_paper.pdf)/Code 
+10 | **PR** | CubeNet: X-shape connection for camouflaged object detection | [Paper](https://doi.org/10.1016/j.patcog.2022.108644)/Code
+11 | **Arxiv** | https://arxiv.org/pdf/2205.10579v1.pdf | [Paper](https://arxiv.org/pdf/2205.10579v1.pdf)/Code
+12 | **Arxiv** | Towards Deeper Understanding of Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2205.11333.pdf)/[Code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)  
 
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
@@ -78,6 +66,7 @@ In this repository, we mainly focus on deep learning based Camouflaged Object De
 ## 2022  
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
+01 | **CVPR** | Implicit Motion Handling for Video Camouflaged Object Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Implicit_Motion_Handling_for_Video_Camouflaged_Object_Detection_CVPR_2022_paper.pdf)/[Code](https://xueliancheng.github.io/SLT-Net-project/)  
 :triangular_flag_on_post: 01 | **AAAI** | You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1100.LiD.pdf)/[Code](https://github.com/Sparklins/YOFO)   
 :triangular_flag_on_post: 02 | **AAAI** | Siamese Network with Interactive Transformer for Video Object Segmentation | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-702.LanM.pdf)/[Code](https://github.com/LANMNG/SITVOS)   
 
