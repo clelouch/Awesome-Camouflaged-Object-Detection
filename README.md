@@ -63,7 +63,7 @@ In this repository, we mainly focus on deep learning based Camouflaged Object De
 :-: | :-: | :-  | :-: 
 01 | **CVPR** | Implicit Motion Handling for Video Camouflaged Object Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Implicit_Motion_Handling_for_Video_Camouflaged_Object_Detection_CVPR_2022_paper.pdf)/[Code](https://xueliancheng.github.io/SLT-Net-project/)  
 
-# Comparison with state-of-the-arts  <a id="Comparison with state-of-the-arts" class="anchor" href="Comparison with state-of-the-arts" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# Evaluation tools 
 * [MATLAB](https://github.com/DengPingFan/CODToolbox)
 * [PYTHON](https://github.com/lartpang/PySODMetrics)
 
