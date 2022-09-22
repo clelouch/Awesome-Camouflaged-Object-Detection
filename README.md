@@ -11,14 +11,15 @@ In this repository, we mainly focus on deep learning based Camouflaged Object De
 01 | **CVPR** | Zoom in and Out: A Mixed-Scale Triplet Network for Camouflaged Object Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Pang_Zoom_in_and_Out_A_Mixed-Scale_Triplet_Network_for_Camouflaged_CVPR_2022_paper.pdf)/[Code](https://github.com/lartpang/ZoomNet)
 02 | **CVPR** | Segment, Magnify and Reiterate Detecting Camouflaged Objects the Hard Way | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Segment_Magnify_and_Reiterate_Detecting_Camouflaged_Objects_the_Hard_Way_CVPR_2022_paper.pdf)/[Code](https://github.com/dlut-dimt/SegMaR)  
 03 | **CVPR** | Detecting Camouflaged Object in Frequency Domain | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_Detecting_Camouflaged_Object_in_Frequency_Domain_CVPR_2022_paper.pdf)/Code 
-04 | **AAAI** | I can find you! Boundary-guided Separated Attention Network for Camouflaged Object Detection | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-6565.ZhuH.pdf)/[Code](https://github.com/WolfberryCoke/BSA-Net)  
-05 | **ACM MMA** | Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels | [Paper](https://arxiv.org/abs/2110.15606v1)/Code
-06 | **KBS** | Boundary-guided network for camouflaged object detection | [Paper](https://doi.org/10.1016/j.knosys.2022.108901)/[Code](https://github.com/clelouch/BgNet)
-07 | **PR** | Fast Camouflaged Object Detection via Edge-based Reversible Re-calibration Network | [Paper](https://arxiv.org/abs/2111.03216)/[Code](https://github.com/GewelsJI/ERRNet) 
-08 | **PR** | CubeNet: X-shape connection for camouflaged object detection | [Paper](https://doi.org/10.1016/j.patcog.2022.108644)/Code
-09 | **Arxiv** | Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer | [Paper](https://arxiv.org/pdf/2205.10579v1.pdf)/Code
-10 | **Arxiv** | Towards Deeper Understanding of Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2205.11333.pdf)/[Code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)  
-11 | **Arxiv** | High-resolution Iterative Feedback Network for Camouflaged Object Detection | [Paper](https://arxiv.org/abs/2203.11624)/[Code](https://github.com/HUuxiaobin/HitNet)
+04 | **ECCV** | OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers| [Paper](https://arxiv.org/abs/2207.02255)/[Code](https://github.com/PJLallen/OSFormer)
+05 | **AAAI** | I can find you! Boundary-guided Separated Attention Network for Camouflaged Object Detection | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-6565.ZhuH.pdf)/[Code](https://github.com/WolfberryCoke/BSA-Net)  
+06 | **ACM MMA** | Improving Camouflaged Object Detection with the Uncertainty of Pseudo-edge Labels | [Paper](https://arxiv.org/abs/2110.15606v1)/Code
+07 | **KBS** | Boundary-guided network for camouflaged object detection | [Paper](https://doi.org/10.1016/j.knosys.2022.108901)/[Code](https://github.com/clelouch/BgNet)
+08 | **PR** | Fast Camouflaged Object Detection via Edge-based Reversible Re-calibration Network | [Paper](https://arxiv.org/abs/2111.03216)/[Code](https://github.com/GewelsJI/ERRNet) 
+09 | **PR** | CubeNet: X-shape connection for camouflaged object detection | [Paper](https://doi.org/10.1016/j.patcog.2022.108644)/Code
+10 | **Arxiv** | Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer | [Paper](https://arxiv.org/pdf/2205.10579v1.pdf)/Code
+11 | **Arxiv** | Towards Deeper Understanding of Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2205.11333.pdf)/[Code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)  
+12 | **Arxiv** | High-resolution Iterative Feedback Network for Camouflaged Object Detection | [Paper](https://arxiv.org/abs/2203.11624)/[Code](https://github.com/HUuxiaobin/HitNet)
 
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
