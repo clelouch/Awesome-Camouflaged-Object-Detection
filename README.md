@@ -5,6 +5,14 @@ In this repository, we mainly focus on deep learning based Camouflaged Object De
 
 # Camouflaged Object Detection
 
+## 2023
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **WACV** | MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection | [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Zheng_MFFN_Multi-View_Feature_Fusion_Network_for_Camouflaged_Object_Detection_WACV_2023_paper.pdf)/[Code](https://github.com/dwardzheng/MFFN_COD)
+02 | **TCSVT** | MSCAF-Net: A General Framework for Camouflaged Object Detection via Learning Multi-Scale Context-Aware Features | [Paper](https://ieeexplore.ieee.org/document/10045692)/[Code](https://github.com/yuliu316316/MSCAF-COD)
+03 | **AAAI** | Weakly-Supervised Camouflaged Object Detection with Scribble Annotations | [Paper](https://arxiv.org/abs/2207.14083)/[Code](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations)
+04 | **MIR** | Deep Gradient Learning for Efficient Camouaged Object Detection | [Paper](https://arxiv.org/abs/2205.12853)/[Code](https://github.com/GewelsJI/DGNet)
+
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -24,6 +32,10 @@ In this repository, we mainly focus on deep learning based Camouflaged Object De
 14 | **CVPR** | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2009.09258.pdf)/[Code](https://github.com/tsingqguo/jadena)
 15 | **TIE** | D2C-Net: A Dual-Branch, Dual-Guidance and Cross-Refine Network for Camouflaged Object Detection | [Paper](https://doi.org/10.1109/TIE.2021.3078379)/[Code](https://github.com/MS-KangWang/COD-D2Net)
 16 | **TMM** | Deep Texton-Coherence Network for Camouflaged Object Detection | [Paper](https://ieeexplore.ieee.org/document/9815160)/Code
+17 | **TIP** | Feature Aggregation and Propagation Network for Camouflaged Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9940173/)/[Code](https://github.com/taozh2017/FAPNet)
+18 | **IJCAI** | Boundary-Guided Camouflaged Object Detection | [Paper](https://arxiv.org/abs/2207.00794v1)/[Code](https://github.com/thograce/BGNet)
+19 | **Arxiv** | CamoFormer: Masked Separable Attention for Camouflaged Object Detection | [Paper](https://arxiv.org/abs/2212.06570v1)/[Code](https://github.com/HVision-NKU/CamoFormer)
+
 
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
