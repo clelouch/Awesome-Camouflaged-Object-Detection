@@ -20,6 +20,10 @@ In this repository, we mainly focus on deep learning based Camouflaged Object De
 10 | **Arxiv** | Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer | [Paper](https://arxiv.org/pdf/2205.10579v1.pdf)/Code
 11 | **Arxiv** | Towards Deeper Understanding of Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2205.11333.pdf)/[Code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)  
 12 | **Arxiv** | High-resolution Iterative Feedback Network for Camouflaged Object Detection | [Paper](https://arxiv.org/abs/2203.11624)/[Code](https://github.com/HUuxiaobin/HitNet)
+13 | **TCSVT** | Camouflaged Object Detection via Context-Aware Cross-Level Fusion | [Paper](https://arxiv.org/abs/2207.13362)/[Code](https://github.com/Ben57882/C2FNet-TSCVT)
+14 | **CVPR** | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2009.09258.pdf)/[Code](https://github.com/tsingqguo/jadena)
+15 | **TIE** | D2C-Net: A Dual-Branch, Dual-Guidance and Cross-Refine Network for Camouflaged Object Detection | [Paper](https://doi.org/10.1109/TIE.2021.3078379)/[Code](https://github.com/MS-KangWang/COD-D2Net)
+16 | **TMM** | Deep Texton-Coherence Network for Camouflaged Object Detection | [Paper](https://ieeexplore.ieee.org/document/9815160)/Code
 
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
