@@ -9,9 +9,19 @@ In this repository, we mainly focus on deep learning based Camouflaged Object De
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **WACV** | MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection | [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Zheng_MFFN_Multi-View_Feature_Fusion_Network_for_Camouflaged_Object_Detection_WACV_2023_paper.pdf)/[Code](https://github.com/dwardzheng/MFFN_COD)
-02 | **TCSVT** | MSCAF-Net: A General Framework for Camouflaged Object Detection via Learning Multi-Scale Context-Aware Features | [Paper](https://ieeexplore.ieee.org/document/10045692)/[Code](https://github.com/yuliu316316/MSCAF-COD)
-03 | **AAAI** | Weakly-Supervised Camouflaged Object Detection with Scribble Annotations | [Paper](https://arxiv.org/abs/2207.14083)/[Code](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations)
-04 | **MIR** | Deep Gradient Learning for Efficient Camouaged Object Detection | [Paper](https://arxiv.org/abs/2205.12853)/[Code](https://github.com/GewelsJI/DGNet)
+02 | **TIP** | FSNet: Focus Scanning Network for Camouflaged Object Detection | [Paper](https://ieeexplore.ieee.org/document/10103836)/[Code](https://github.com/SongZeHNU/FSNet)
+03 | **TIP** | Nowhere to Disguise: Spot Camouflaged Objects via Saliency Attribute Transfer | [Paper](https://ieeexplore.ieee.org/document/10132418)/[Code](https://github.com/wdzhao123/SAT)
+04 | **TIP** | Predictive Uncertainty Estimation for Camouflaged Object Detection | [Paper](https://ieeexplore.ieee.org/document/10159663)/[Code](https://github.com/Jun-Pu/PUENet)
+05 | **TCDS** | Toward Accurate Camouflaged Object Detection With In-Layer Information Enhancement and Cross-Layer Information Aggregation | [Paper](https://ieeexplore.ieee.org/document/9766405)/Code
+06 | **TCSVT** | MSCAF-Net: A General Framework for Camouflaged Object Detection via Learning Multi-Scale Context-Aware Features | [Paper](https://ieeexplore.ieee.org/document/10045692)/[Code](https://github.com/yuliu316316/MSCAF-COD)
+07 | **TCSVT** | Go Closer To See Better: Camouflaged Object Detection via Object Area Amplification and Figure-ground Conversion | [Paper](https://ieeexplore.ieee.org/document/10065514)/[Code](https://github.com/Haozhe-Xing/SARNet)
+08 | **TETCI** | A Cross-Level Interaction Network Based on Scale-Aware Augmentation for Camouflaged Object Detection | [Paper](https://ieeexplore.ieee.org/document/10219020)/Code
+09 | **AAAI** | Weakly-Supervised Camouflaged Object Detection with Scribble Annotations | [Paper](https://arxiv.org/abs/2207.14083)/[Code](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations)
+10 | **MIR** | Deep Gradient Learning for Efficient Camouaged Object Detection | [Paper](https://arxiv.org/abs/2205.12853)/[Code](https://github.com/GewelsJI/DGNet)
+11 | **ICME** | CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection | [Paper](https://ieeexplore.ieee.org/document/10219858)/[Code](https://github.com/ZhangQing0329/CFANet)
+12 | **CVPR** | Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/He_Camouflaged_Object_Detection_With_Feature_Decomposition_and_Edge_Reconstruction_CVPR_2023_paper.pdf)/[Code](https://github.com/ChunmingHe/FEDER)
+13 | **CVPR** | Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers | [Paper](https://ieeexplore.ieee.org/document/10204055)/[Code](https://github.com/ZhouHuang23/FSPNet)
+14 | **arxiv** | CamoFormer: Masked Separable Attention for Camouflaged Object Detection | [Paper](https://arxiv.org/abs/2212.06570)/[Code](https://github.com/HVision-NKU/CamoFormer)
 
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
